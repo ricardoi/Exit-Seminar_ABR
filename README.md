@@ -33,4 +33,4 @@ Signature [page submission](https://github.com/ricardoi/Exit-Seminar_ABR/tree/ma
 
 Student milestones [to sign](https://github.com/ricardoi/Exit-Seminar_ABR/blob/main/docs/Final%20Exam-Ricardo%20Alcala.pdf)
 
-[Deadlines]
+[Deadlines](https://github.com/ricardoi/Exit-Seminar_ABR/blob/main/docs/2019-04-Doctoral-Checklist.pdf)
