@@ -24,5 +24,7 @@ Find your local number: https://ufl.zoom.us/u/abXTnEuLEG
 
 [GIMS UF Publishing agreement](https://gradschool.ufl.edu/gimsportal/gatorlink/portal.asp)
 
-[Agreement](https://www.etdadmin.com/cgi-bin/student/etd?siteId=259)
+Signing [Agreement](https://www.etdadmin.com/cgi-bin/student/etd?siteId=259)
+
+[Signature page submission](https://github.com/ricardoi/Exit-Seminar_ABR/tree/main/docs)
 
