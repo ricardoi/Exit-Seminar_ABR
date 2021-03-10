@@ -24,6 +24,9 @@ Find your local number: https://ufl.zoom.us/u/abXTnEuLEG
 
 Publishing agreement [GIMS UF](https://gradschool.ufl.edu/gimsportal/gatorlink/portal.asp)
 
+
+Signing [ETD document](https://www.etdadmin.com/cgi-bin/student/etd?siteId=259)
+
 Signing [EDT Agreement](https://github.com/ricardoi/Exit-Seminar_ABR/blob/main/docs/ETD%20Signature%20Page-Ricardo%20Alcala.pdf) 
 
 Signature [page submission](https://github.com/ricardoi/Exit-Seminar_ABR/tree/main/docs)
