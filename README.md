@@ -1,7 +1,8 @@
 ### Title
 **VIROME NETWORK ANALYSIS: A NETWORK FRAMEWORK FOR STUDYING LANDSCAPE AGROECOLOGY  OF PLANT VIROMES**
 
-[Exit Seminar](https://ufl.zoom.us/j/92731223888))
+Exit Seminar [zoom link](https://ufl.zoom.us/j/92731223888))
+
 Ricardo I Alcala is inviting you to a scheduled Zoom meeting.
 Topic: Exit Seminar Ricardo I Alcala
 Time: Mar 26, 2021 10:00 AM Eastern Time (US and Canada)
