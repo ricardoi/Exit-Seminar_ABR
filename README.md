@@ -11,6 +11,7 @@ Meeting ID: 927 3122 3888
 Find your local number: https://ufl.zoom.us/u/akWpCqUgi
 
 [Exit Seminar Defense](https://ufl.zoom.us/j/98449322333)
+
 Ricardo I Alcala is inviting you to a scheduled Zoom meeting.
 Topic: Exit Seminar Defense Ricardo I Alcala 
 Time: Mar 26, 2021 11:00 AM Eastern Time (US and Canada)
