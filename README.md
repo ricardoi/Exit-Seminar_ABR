@@ -22,9 +22,12 @@ Find your local number: https://ufl.zoom.us/u/abXTnEuLEG
 
 
 
-[GIMS UF Publishing agreement](https://gradschool.ufl.edu/gimsportal/gatorlink/portal.asp)
+Publishing agreement [GIMS UF](https://gradschool.ufl.edu/gimsportal/gatorlink/portal.asp)
 
 Signing [Agreement](https://www.etdadmin.com/cgi-bin/student/etd?siteId=259)
 
-[Signature page submission](https://github.com/ricardoi/Exit-Seminar_ABR/tree/main/docs)
+Signature [page submission](https://github.com/ricardoi/Exit-Seminar_ABR/tree/main/docs)
 
+Student milestones [to sign](https://github.com/ricardoi/Exit-Seminar_ABR/blob/main/docs/Final%20Exam-Ricardo%20Alcala.pdf)
+
+[Deadlines]
